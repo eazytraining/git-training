@@ -26,7 +26,7 @@ sudo dnf install git -y
 ### 2. Installation de Git sur Windows
 
 #### Téléchargement
-- Allez sur [https://git-scm.com/download/windows](https://git-scm.com/download/windows)
+- Allez sur https://git-scm.com/install/windows
 - Téléchargez la dernière version de Git pour Windows
 - Lancez l'installateur `.exe`
 
